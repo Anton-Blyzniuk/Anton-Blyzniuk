@@ -46,7 +46,7 @@ Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
 
 Task management, user roles, status tracking, responsive UI, and clean code.
 
-[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)        [**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)&nbsp;&nbsp;&nbsp;[**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
 
 
 
@@ -57,7 +57,7 @@ Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
 
 Auth, throttling, media handling, filtering, Swagger docs.
 
-[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)        [**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)&nbsp;&nbsp;&nbsp;[**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
 
 
 
