@@ -43,9 +43,9 @@ I truly love what I do and continue learning every day. For me, programming is m
 🧠 A responsive Django-based task manager for teams and indie developers.
 Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
 
-✨ Task management, user roles, status tracking, responsive UI, and clean code.
+Task management, user roles, status tracking, responsive UI, and clean code.
 
-[🔗 See the code](https://github.com/AntonBliznuk/it-task-manager)  [🌐 Try live](https://it-task-manager-nws5.onrender.com/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)  [**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
 
 
 ## ✈️ airport-API
@@ -53,9 +53,9 @@ Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
 A secure and scalable REST API for airports, flights, and ticketing.
 Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
 
-🔐 Auth, 🔄 throttling, 📸 media handling, 🔍 filtering, 📝 Swagger docs.
+Auth, throttling, media handling, filtering, Swagger docs.
 
-[🔗 See the code](https://github.com/AntonBliznuk/airport-API)  [🌐 Try live](https://airport-api-dott.onrender.com/api/doc/swagger/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)  [**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
 
 
 ## 🌐 django-social-network
@@ -65,7 +65,7 @@ Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
 
 📬 Posts, comments, likes, recommendations, subscriptions, Redis caching.
 
-[🔗 See the code](https://github.com/AntonBliznuk/django-social-network)
+[**🔗 See the code**](https://github.com/AntonBliznuk/django-social-network)
 
 
 ## 📚 library-API
@@ -73,6 +73,6 @@ Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
 RESTful API for managing books, borrowing, and payments with async background tasks.
 Tech: Django REST Framework, Celery, PostgreSQL, JWT
 
-🔄 Background tasks, secure token auth, clean and production-ready endpoints.
+Background tasks, secure token auth, clean and production-ready endpoints.
 
-[🔗 See the code](https://github.com/AntonBliznuk/library-API)
+[**🔗 See the code**](https://github.com/AntonBliznuk/library-API)
