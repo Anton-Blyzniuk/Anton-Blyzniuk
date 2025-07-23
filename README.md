@@ -1,4 +1,4 @@
-Hi 👋 My name is Anton Blizuk
+Hi 👋 My name is Anton Bliznuk
 =============================
 
 Python Developer | Django, DRF, FastAPI, Aiogram, Web Scraping
