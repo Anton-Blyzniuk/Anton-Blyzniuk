@@ -33,38 +33,38 @@ I truly love what I do and continue learning every day. For me, programming is m
 
 <p align="left"> <a href="https://www.github.com/AntonBliznuk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/tokha1638/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/антон-близнюк-3499b234b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-⸻
+--------------------------------------------------------------
 
-📌 Featured Projects
+# 📌 Featured Projects
 
-🚀 IT Task Manager
+### 🚀 IT Task Manager
 
 A beautiful and responsive Django-based task manager for teams and indie developers.
 Tech: Django, Bootstrap, Crispy Forms, Debug Toolbar, Black, Ruff
 
 Features: user & task management, statuses, animations, clean code, responsive UI.
 
-⸻
+--------------------------------------------------------------
 
-✈️ airport-API
+### ✈️ airport-API
 
 A secure, Dockerized RESTful API for airports, flights, and ticketing with JWT and image handling.
 Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
 
 Includes throttling, price logic, filtering, custom permissions, Swagger docs.
 
-⸻
+--------------------------------------------------------------
 
-🌐 Django Social Network
+### 🌐 Django Social Network
 
 A fully function-based social platform — built from scratch to understand how Django works under the hood.
 Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
 
 Experimental project. Includes posts, comments, likes, subscriptions, recommendations, and caching with Redis.
 
-⸻
+--------------------------------------------------------------
 
-📚 library-API
+### 📚 library-API
 
 API for managing a library of books, borrowing, payments with background task support.
 Tech: Django REST Framework, Celery, PostgreSQL, JWT
