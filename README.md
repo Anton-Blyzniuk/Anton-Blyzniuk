@@ -8,9 +8,9 @@ My name is Anton, I’m 19 years old, and I’ve been programming for over 3 yea
 
 When it came time to choose a university major, I decided to study economics instead of computer science. But my passion for solving problems, building useful things, and programming on Python never went away - in fact, it only grew stronger. That’s when I decided to double down on my skills and completed an intensive course at Mate Academy. It helped me strengthen my technical abilities, work on real-world projects, and gain hands-on experience.
 
-Today, I specialize in backend development: I build REST APIs, work with databases, and use technologies like Django, FastAPI, Docker, Celery, Redis, and PostgreSQL. What inspires me most is turning a simple idea into a real working product.
+Today, I specialize in backend development: I build REST APIs, work with databases, and use technologies like Django, FastAPI, Docker, Celery, Redis, and PostgreSQL.
 
-I truly love what I do and continue learning every day. For me, programming is more than just a job - it’s a mindset and a lifelong journey.
+I truly love what I do and continue learning every day. For me, programming is more than just a job - it’s a lifelong journey.
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D1%8E%D0%BA-3499b234b/)
@@ -34,5 +34,3 @@ I truly love what I do and continue learning every day. For me, programming is m
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AntonBliznuk"><img src="https://github-readme-stats.vercel.app/api?username=AntonBliznuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="AntonBliznuk's GitHub stats" /></a>
-
-<a href="http://www.github.com/AntonBliznuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonBliznuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
