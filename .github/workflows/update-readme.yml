@@ -26,4 +26,10 @@ jobs:
           git config user.email "action@github.com"
           git add README.md
           git commit -m "Update age and experience" || echo "No changes to commit"
+
+      - name: Push changes
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
           git push
