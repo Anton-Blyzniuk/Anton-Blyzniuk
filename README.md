@@ -38,6 +38,7 @@ I truly love what I do and continue learning every day. For me, programming is m
 # 📌 Featured Projects
 
 
+
 ## 🚀 IT-task-manager
 
 🧠 A responsive Django-based task manager for teams and indie developers.
@@ -45,7 +46,8 @@ Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
 
 Task management, user roles, status tracking, responsive UI, and clean code.
 
-[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)  [**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)        [**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
+
 
 
 ## ✈️ airport-API
@@ -55,7 +57,8 @@ Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
 
 Auth, throttling, media handling, filtering, Swagger docs.
 
-[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)  [**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
+[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)        [**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
+
 
 
 ## 🌐 django-social-network
@@ -63,9 +66,10 @@ Auth, throttling, media handling, filtering, Swagger docs.
 Experimental, fully function-based social network to dive deep into Django’s internals.
 Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
 
-📬 Posts, comments, likes, recommendations, subscriptions, Redis caching.
+Posts, comments, likes, recommendations, subscriptions, Redis caching.
 
 [**🔗 See the code**](https://github.com/AntonBliznuk/django-social-network)
+
 
 
 ## 📚 library-API
