@@ -37,36 +37,46 @@ I truly love what I do and continue learning every day. For me, programming is m
 
 # 📌 Featured Projects
 
-### 🚀 IT Task Manager
+--------------------------------------------------------------
 
-A beautiful and responsive Django-based task manager for teams and indie developers.
-Tech: Django, Bootstrap, Crispy Forms, Debug Toolbar, Black, Ruff
+### 🚀 IT-task-manager
 
-Features: user & task management, statuses, animations, clean code, responsive UI.
+🧠 A responsive Django-based task manager for teams and indie developers.
+Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
+
+✨ Task management, user roles, status tracking, responsive UI, and clean code.
+
+[🔗 See the code](https://github.com/AntonBliznuk/it-task-manager)   [🌐 Try live](https://it-task-manager-nws5.onrender.com/)
 
 --------------------------------------------------------------
 
 ### ✈️ airport-API
 
-A secure, Dockerized RESTful API for airports, flights, and ticketing with JWT and image handling.
+A secure and scalable REST API for airports, flights, and ticketing.
 Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
 
-Includes throttling, price logic, filtering, custom permissions, Swagger docs.
+🔐 Auth, 🔄 throttling, 📸 media handling, 🔍 filtering, 📝 Swagger docs.
+
+[🔗 See the code](https://github.com/AntonBliznuk/airport-API)   [🌐 Try live](https://airport-api-dott.onrender.com/api/doc/swagger/)
 
 --------------------------------------------------------------
 
-### 🌐 Django Social Network
+### 🌐 django-social-network
 
-A fully function-based social platform — built from scratch to understand how Django works under the hood.
+Experimental, fully function-based social network to dive deep into Django’s internals.
 Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
 
-Experimental project. Includes posts, comments, likes, subscriptions, recommendations, and caching with Redis.
+📬 Posts, comments, likes, recommendations, subscriptions, Redis caching.
+
+[🔗 See the code](https://github.com/AntonBliznuk/django-social-network)
 
 --------------------------------------------------------------
 
 ### 📚 library-API
 
-API for managing a library of books, borrowing, payments with background task support.
+RESTful API for managing books, borrowing, and payments with async background tasks.
 Tech: Django REST Framework, Celery, PostgreSQL, JWT
 
-Asynchronous background tasks, token auth, clean endpoints.
+🔄 Background tasks, secure token auth, clean and production-ready endpoints.
+
+[🔗 See the code](https://github.com/AntonBliznuk/library-API)
