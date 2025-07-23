@@ -35,7 +35,7 @@ I truly love what I do and continue learning every day. For me, programming is m
 
 --------------------------------------------------------------
 
-# 📌 Featured Projects
+# 📌 Projects
 
 
 
