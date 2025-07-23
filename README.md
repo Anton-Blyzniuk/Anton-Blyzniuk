@@ -48,7 +48,7 @@ Task management, user roles, status tracking, responsive UI, and clean code.
 
 [**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)&nbsp;&nbsp;&nbsp;[**🌐 Try live**](https://it-task-manager-nws5.onrender.com/)
 
-
+---
 
 ## ✈️ airport-API
 
@@ -59,7 +59,7 @@ Auth, throttling, media handling, filtering, Swagger docs.
 
 [**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)&nbsp;&nbsp;&nbsp;[**🌐 Try live**](https://airport-api-dott.onrender.com/api/doc/swagger/)
 
-
+---
 
 ## 🌐 django-social-network
 
@@ -70,7 +70,7 @@ Posts, comments, likes, recommendations, subscriptions, Redis caching.
 
 [**🔗 See the code**](https://github.com/AntonBliznuk/django-social-network)
 
-
+---
 
 ## 📚 library-API
 
