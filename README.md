@@ -4,11 +4,11 @@ Hi 👋 My name is Anton Bliznuk
 Python Developer | Django, DRF, FastAPI, Aiogram, Web Scraping
 --------------------------------------------------------------
 
+My name is Anton, I’m 19 years old, and I’ve been programming for over 3 years - mostly using Python. I first discovered Python back in school, and from the moment I wrote my first lines of code, I knew it was something special. Since then, I’ve been constantly learning and building - experimenting with projects, automating tasks, and creating applications driven by curiosity and passion.
+
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-My name is Anton, I’m 19 years old, and I’ve been programming for over 3 years - mostly using Python. I first discovered Python back in school, and from the moment I wrote my first lines of code, I knew it was something special. Since then, I’ve been constantly learning and building - experimenting with projects, automating tasks, and creating applications driven by curiosity and passion.
 
 When it came time to choose a university major, I decided to study economics instead of computer science. But my passion for solving problems, building useful things, and programming on Python never went away - in fact, it only grew stronger. That’s when I decided to double down on my skills and completed an intensive course at Mate Academy. It helped me strengthen my technical abilities, work on real-world projects, and gain hands-on experience.
 
