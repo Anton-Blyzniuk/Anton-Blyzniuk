@@ -79,4 +79,4 @@ Tech: Django REST Framework, Celery, PostgreSQL, JWT
 
 Background tasks, secure token auth, clean and production-ready endpoints.
 
-[**🔗 See the code**](https://github.com/AntonBliznuk/library-API)
+[**🔗 See the code**](https://github.com/AntonBliznuk/library-API)&nbsp;&nbsp;&nbsp;[**👀 See in Action**](https://library-api-m7bp.onrender.com/api/doc/swagger/)
