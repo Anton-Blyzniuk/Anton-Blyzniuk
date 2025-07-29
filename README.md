@@ -77,6 +77,6 @@ Posts, comments, likes, recommendations, subscriptions, Redis caching.
 RESTful API for managing books, borrowing, and payments with async background tasks.
 Tech: Django REST Framework, Celery, PostgreSQL, JWT
 
-Background tasks, stripe payments, secure token auth, clean and production-ready endpoints.
+Background tasks, stripe payments, secure token auth, clean and production-ready.
 
 [**🔗 See the code**](https://github.com/AntonBliznuk/library-API)&nbsp;&nbsp;&nbsp;[**👀 See in Action**](https://library-api-m7bp.onrender.com/api/doc/swagger/)
