@@ -4,17 +4,23 @@ Hi 👋 My name is Anton Bliznuk
 Python Developer | Django, DRF, FastAPI, Web Scraping
 --------------------------------------------------------------
 
-My name is Anton, I’m 19 years old, and I’ve been programming for over 3 years - mostly using Python. I first discovered Python back in school, and from the moment I wrote my first lines of code, I knew it was something special. Since then, I’ve been constantly learning and building - experimenting with projects, automating tasks, and creating applications driven by curiosity and passion.
+Ever since I can remember, I’ve been in front of a screen. I got my first computer when I was six years old - before I even learned how to ride a bike. While most kids were outside, I was inside, exploring every corner of the operating system, clicking through settings I didn’t fully understand yet, and learning through trial and error. That curiosity never left me.
+
+As I grew older, I got into video games. But my hardware was outdated, and instead of giving up, I dug deep. I started tweaking system configurations, overclocking, replacing parts, and squeezing every bit of performance out of that old machine. I didn’t realize it at the time, but I wasn’t just trying to play games - I was falling in love with the machine itself. I was learning how things work under the hood.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-When it came time to choose a university major, I decided to study economics instead of computer science. But my passion for solving problems, building useful things, and programming on Python never went away - in fact, it only grew stronger. That’s when I decided to double down on my skills and completed an intensive course at Mate Academy. It helped me strengthen my technical abilities, work on real-world projects, and gain hands-on experience.
+Eventually, I got a powerful new PC. Ironically, it was then that I lost interest in gaming. I realized that what truly fascinated me wasn’t the entertainment - it was the process. The challenge. The control. I didn’t want to just use technology. I wanted to create with it.
 
-Today, I specialize in backend development: I build REST APIs, work with databases, and use technologies like Django, FastAPI, Docker, Celery, Redis, and PostgreSQL.
+At 16, I discovered Python. That was a turning point.
 
-I truly love what I do and continue learning every day. For me, programming is more than just a job - it’s a lifelong journey.
+Since then, I’ve spent thousands of hours honing my skills - building web scrapers, APIs, Telegram bots, automation scripts, and entire backend services. I dove deep into frameworks like Django and FastAPI, mastered tools like Docker, Redis, PostgreSQL, Celery, and Git, and fell in love with building systems that solve real problems. Every project I touch is another opportunity to optimize, refactor, or automate something in a way that makes life simpler - not just for me, but for others too.
+
+Programming became more than a passion - it became a mindset. I thrive in environments where I can break things down, understand them, and rebuild them better. I love clean code, thoughtful architecture, and the satisfaction that comes from turning an abstract idea into something real and useful.
+
+Today, I’m not just someone who writes code. I’m someone who builds. Someone who understands systems, sees the bigger picture, and constantly pushes to improve it. I turned my lifelong curiosity into a profession - and I’m just getting started.
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D1%8E%D0%BA-3499b234b/)
