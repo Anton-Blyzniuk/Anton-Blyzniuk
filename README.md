@@ -56,16 +56,7 @@ Today, I’m not just someone who writes code. I’m someone who builds. Someone
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.github.com/AntonBliznuk" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-    </picture>
-  </a>
-
-  <a href="http://www.instagram.com/antonbliznukmain/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/antonblyzniukmain/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
@@ -73,7 +64,7 @@ Today, I’m not just someone who writes code. I’m someone who builds. Someone
     </picture>
   </a>
 
-  <a href="https://www.linkedin.com/in/anton-bliznuk-3499b234b/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/anton-blyzniuk-python-dev/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
