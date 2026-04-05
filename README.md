@@ -1,6 +1,5 @@
-Hi 👋 My name is Anton Bliznuk
+Hi 👋 My name is Anton Blyzniuk
 =============================
-
 Software Engineer
 --------------------------------------------------------------
 
