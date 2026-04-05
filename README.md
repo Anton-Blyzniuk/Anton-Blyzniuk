@@ -49,11 +49,3 @@ Today, I’m not just someone who writes code. I’m someone who builds. Someone
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-
-
-RESTful API for managing books, borrowing, and payments with async background tasks.
-Tech: Django REST Framework, Celery, PostgreSQL, JWT
-
-Background tasks, stripe payments, secure token auth, clean and production-ready.
-
-[**🔗 See the code**](https://github.com/AntonBliznuk/library-API)&nbsp;&nbsp;&nbsp;[**👀 See in Action**](https://library-api-m7bp.onrender.com/api/doc/swagger/)
