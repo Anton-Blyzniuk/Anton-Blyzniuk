@@ -51,69 +51,6 @@ Today, I’m not just someone who writes code. I’m someone who builds. Someone
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 
-
-### Socials
-
-### Socials
-
-  <a href="https://www.instagram.com/antonblyzniukmain/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-    </picture>
-  </a>
-
-  <a href="https://www.linkedin.com/in/anton-blyzniuk-python-dev/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-</p>
-
---------------------------------------------------------------
-
-# 📌 Projects
-
-
-
-## 🚀 IT-task-manager
-
-🧠 A responsive Django-based task manager for teams and indie developers.
-Tech: Django, Bootstrap, Crispy Forms, Black, Ruff
-
-Task management, user roles, status tracking, responsive UI, and clean code.
-
-[**🔗 See the code**](https://github.com/AntonBliznuk/it-task-manager)&nbsp;&nbsp;&nbsp;[**👀 See in Action**](https://it-task-manager-nws5.onrender.com/)
-
----
-
-## ✈️ airport-API
-
-A secure and scalable REST API for airports, flights, and ticketing.
-Tech: Django REST Framework, PostgreSQL, JWT, Cloudinary, Docker
-
-Auth, throttling, media handling, filtering, Swagger docs.
-
-[**🔗 See the code**](https://github.com/AntonBliznuk/airport-API)&nbsp;&nbsp;&nbsp;[**👀 See in Action**](https://airport-api-dott.onrender.com/api/doc/swagger/)
-
----
-
-## 🌐 django-social-network
-
-Experimental, fully function-based social network to dive deep into Django’s internals.
-Tech: Django, PostgreSQL, Redis, Cloudinary, Docker
-
-Posts, comments, likes, recommendations, subscriptions, Redis caching.
-
-[**🔗 See the code**](https://github.com/AntonBliznuk/django-social-network)
-
----
-
-## 📚 library-API
-
 RESTful API for managing books, borrowing, and payments with async background tasks.
 Tech: Django REST Framework, Celery, PostgreSQL, JWT
 
