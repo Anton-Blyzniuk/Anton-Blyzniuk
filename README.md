@@ -22,10 +22,7 @@ Programming became more than a passion - it became a mindset. I thrive in enviro
 
 Today, I’m not just someone who writes code. I’m someone who builds. Someone who understands systems, sees the bigger picture, and constantly pushes to improve it. I turned my lifelong curiosity into a profession - and I’m just getting started.
 
-* 🌍  I'm based in Ukraine
-* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/anton-blyzniuk-python-dev/)
-* ✉️  You can contact me at [bliznukantonmain@gmail.com](mailto:bliznukantonmain@gmail.com)
-* 🤝  I'm open to collaborating on interesting backend projects
+* 🖥️  See my website at https://antonblyzniuk.com
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
